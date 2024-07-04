@@ -1,0 +1,8 @@
+A0000001Maki                     P
+A0000002Olivia Rodrigo           P
+A0000003Conan Gray               T	
+B0000004Rex Orange               P
+B0000005Phoebe Bridgers          T  
+C0000006Sabrina Carpenter        T
+C0000007Billie Eilish            P
+C0000008Taylor Swift             P

@@ -1,0 +1,30 @@
+			     CHIKA ULIT CORPORATION
+				 Kalokohan City
+
+                                WORKER'S REPORT
+
+          WORKER'S NUMBER          WORKER'S NAME          STATUS NAME
+
+	 0000001	  Maki				     	 PERMANENT
+	 0000002	  Olivia Rodrigo		     PERMANENT
+	 0000003	  Conan Gray			     TEMPORARY
+
+PROVINCIAL NAME: ANTIPOLO
+TOTAL NO. OF WORKERS:	  3
+
+	 0000004	  Rex Orange			     PERMANENT
+	 0000005	  Phoebe Bridgers		     TEMPORARY
+
+PROVINCIAL NAME: BACOLOD
+TOTAL NO. OF WORKERS:	  2
+
+	 0000006	  Sabrina Carpenter		     TEMPORARY
+	 0000007	  Billie Eilish 		     PERMANENT
+	 0000008	  Taylor Swift			     PERMANENT
+
+PROVINCIAL NAME: CEBU
+TOTAL NO. OF WORKERS:	  3
+
+TOTAL NO. OF CHIKA WORKERS:	 8
+TOTAL NO. OF PERMANENT:     5
+TOTAL NO. OF TEMPORARY:     3
